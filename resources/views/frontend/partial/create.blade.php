@@ -45,17 +45,6 @@
             </div>
         </div>
 
-        <div class="row">
-            <div class="col-md-12 form-group">
-                <label for="roomtype">Breakfast, Lunch & Dinner:</label>
-                <select id="roomtype" name="roomtype" class="form-control" required>
-                    <option value="deluxe">Provided</option>
-                    <option value="budget">
-                        Not Provided
-                    </option>
-                </select>
-            </div>
-        </div>
 
         <div class="row">
             <div class="col-md-12 form-group">

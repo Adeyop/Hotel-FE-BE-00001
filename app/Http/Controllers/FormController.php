@@ -158,7 +158,6 @@ class FormController extends Controller
 
     $reservation->save();
 
-    Session::flash('success', 'Reservation submitted successfully!');
 
     return redirect()->route('home')->with('success', 'Reservation confirmed successfully!');
 
