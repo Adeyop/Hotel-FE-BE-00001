@@ -78,7 +78,7 @@
         </div>
         <div class="row">
             <div class="col-md-6 form-group">
-                <a href="http://laravelhotelreserve.test/home" class="btn btn-secondary">Back</a>
+                <a href="http://hotel-fe-be-00001.test/home" class="btn btn-secondary">Back</a>
             </div>
         </div>
     </form>
